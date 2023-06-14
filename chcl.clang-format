@@ -6,6 +6,3 @@ Language: Cpp
 DerivePointerAlignment: False
 PointerAlignment: Left
 
-Language: C
-DerivePointerAlignment: False
-PointerAlignment: Left
