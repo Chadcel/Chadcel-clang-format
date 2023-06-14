@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+IndentWidth: 2
+ColumnLimit: 110
+
+Language: Cpp
+DerivePointerAlignment: False
+PointerAlignment: Left
+
+Language: C
+DerivePointerAlignment: False
+PointerAlignment: Left
