@@ -1,7 +1,8 @@
 BasedOnStyle: LLVM
 IndentWidth: 2
-ColumnLimit: 110
+ColumnLimit: 100
 InsertNewlineAtEOF: True
+SeparateDefinitionBlocks: Always
 
 Language: Cpp
 DerivePointerAlignment: False
